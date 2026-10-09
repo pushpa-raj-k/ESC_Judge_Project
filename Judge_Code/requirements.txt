@@ -1,0 +1,7 @@
+torch
+transformers>=4.50
+accelerate
+bitsandbytes      # only needed if load_in_4bit=True
+openai            # only needed for API / Ollama / vLLM backends
+pandas
+tqdm

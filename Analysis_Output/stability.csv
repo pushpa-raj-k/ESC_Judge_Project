@@ -1,0 +1,19 @@
+judge,dimension,category,parse_rate,all_runs_agree,mean_pairwise_run_agreement,order_consistency_run0_vs_run1,tie_rate,first_slot_rate_among_nontie
+gemma-3-4b,Empathic Understanding,Exploration,1.0,0.275,0.275,0.275,0.1125,0.7605633802816901
+gemma-3-4b,Encouragement of Emotional Expression,Exploration,1.0,0.325,0.325,0.325,0.1,0.5694444444444444
+gemma-3-4b,Exploration of Thoughts and Narratives,Exploration,1.0,0.3,0.3,0.3,0.0125,0.7468354430379747
+gemma-3-4b,Establish a Trusting Foundation,Insight,1.0,0.3,0.3,0.3,0.0375,0.7402597402597403
+gemma-3-4b,Assess Readiness for Insight,Insight,1.0,0.4,0.4,0.4,0.2125,0.6031746031746031
+gemma-3-4b,Use Gentle Challenges and Interpretations,Insight,1.0,0.3,0.3,0.3,0.0625,0.7333333333333333
+gemma-3-4b,Clarify the Desired Change,Action,1.0,0.35,0.35,0.35,0.0875,0.6575342465753424
+gemma-3-4b,Ensure Readiness and Collaboration,Action,1.0,0.4,0.4,0.4,0.0125,0.620253164556962
+gemma-3-4b,Brainstorm and Evaluate Options,Action,1.0,0.425,0.425,0.425,0.2875,0.49122807017543857
+phi-4-mini,Empathic Understanding,Exploration,0.975,0.5128205128205128,0.5128205128205128,0.5128205128205128,0.5641025641025641,0.7058823529411765
+phi-4-mini,Encouragement of Emotional Expression,Exploration,0.95,0.4473684210526316,0.4473684210526316,0.4473684210526316,0.5789473684210527,0.6875
+phi-4-mini,Exploration of Thoughts and Narratives,Exploration,0.9,0.4166666666666667,0.4166666666666667,0.4166666666666667,0.5555555555555556,0.59375
+phi-4-mini,Establish a Trusting Foundation,Insight,0.8625,0.6176470588235294,0.6176470588235294,0.6176470588235294,0.7681159420289855,0.8125
+phi-4-mini,Assess Readiness for Insight,Insight,0.825,0.6060606060606061,0.6060606060606061,0.6060606060606061,0.7727272727272727,0.3333333333333333
+phi-4-mini,Use Gentle Challenges and Interpretations,Insight,0.775,0.45161290322580644,0.45161290322580644,0.45161290322580644,0.5483870967741935,0.5714285714285714
+phi-4-mini,Clarify the Desired Change,Action,0.7375,0.5517241379310345,0.5517241379310345,0.5517241379310345,0.7288135593220338,0.6875
+phi-4-mini,Ensure Readiness and Collaboration,Action,0.725,0.6551724137931034,0.6551724137931034,0.6551724137931034,0.8103448275862069,0.45454545454545453
+phi-4-mini,Brainstorm and Evaluate Options,Action,0.7125,0.5714285714285714,0.5714285714285714,0.5714285714285714,0.7192982456140351,0.5625

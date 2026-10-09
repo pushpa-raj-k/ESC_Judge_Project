@@ -1,0 +1,41 @@
+order,pid,stressor_category,challenge
+1,9b94e719-f53f-49d2-a6d6-47d15e96d484,Career & Academic Pressures,Career change or uncertainty about career path
+2,0760c5a9-e197-4786-9389-eaeba5c8c29c,"Identity, Discrimination & Social Challenges",Workplace discrimination or harassment
+3,e07d6dbe-66a1-4a71-a010-a7f45e4a6bac,Health & Well-being,Eating disorders or body image issues
+4,0367b65b-87f7-4756-a20d-6036915d01bf,Environmental & Societal Stressors,"Political instability, war, or civil unrest"
+5,401094aa-2cf4-4d52-a7c2-eb85f9811d0b,Personal Loss & Major Life Changes,Pregnancy and childbirth complications
+6,c608ec57-8f54-42e9-87da-ac6cc5047712,Financial & Economic Stress,Bankruptcy
+7,cbf850f0-6f64-4b13-95f4-7e70c6def1e3,Career & Academic Pressures,Workplace conflict or toxic work environment
+8,b969ad59-07df-4dbb-9252-ea31f20cae9c,"Identity, Discrimination & Social Challenges",Dealing with identity (being non-binary or LGBTQ+)
+9,cb39ec53-6788-4dac-af7a-9ed6b474caab,Health & Well-being,Eating disorders or body image issues
+10,40579f5f-1e29-4b22-a817-1705f625e30d,Environmental & Societal Stressors,"Political instability, war, or civil unrest"
+11,6d83623e-f6db-46ea-977a-5e70214d53b4,Personal Loss & Major Life Changes,Death of a loved one
+12,d839ec4a-1ad4-4acd-8006-136303bf992b,Financial & Economic Stress,Inability to pay rent or mortgage
+13,aa354028-88b6-4d81-9b2a-ac4d8436017e,Career & Academic Pressures,Fear of job automation or industry decline
+14,9435f09b-9ca1-48a8-8231-4a972ddf331c,"Identity, Discrimination & Social Challenges",Dealing with identity (being non-binary or LGBTQ+)
+15,07d2902e-20b9-4461-a8ad-75b340e12acd,Health & Well-being,Long-term effects of a past trauma
+16,6a1a68ac-511b-4437-bd1f-0035c0a584e6,Environmental & Societal Stressors,"Natural disasters (earthquakes, hurricanes, wildfires)"
+17,36f4d173-7954-46e3-83e3-9dd8d2994db2,Personal Loss & Major Life Changes,Divorce or breakup of a significant relationship
+18,851eb665-86d2-45ee-957b-e1a1f2dcca3d,Financial & Economic Stress,Economic downturn affecting personal finances
+19,5e09da3b-01c1-44a1-8893-0d0f5174e870,Career & Academic Pressures,Failure to get a promotion or recognition
+20,f0622a8c-c533-4e5d-bee3-717e794e46b2,"Identity, Discrimination & Social Challenges",Dealing with identity (being non-binary or LGBTQ+)
+21,9c05341d-1b60-4ea7-a267-e627bf6d0d08,Health & Well-being,Long-term effects of a past trauma
+22,56b335f6-716f-4dee-b305-328cb77bc80e,Environmental & Societal Stressors,Moving to a new city or country
+23,f77b5bfd-78c1-4470-96b2-cf8642c49714,Personal Loss & Major Life Changes,Becoming a new parent
+24,8abe5dc1-df8d-4f22-8209-b428c3084cd1,Financial & Economic Stress,Economic downturn affecting personal finances
+25,a97dc927-5c3b-4679-a61f-f596997f44aa,Career & Academic Pressures,Job loss or sudden unemployment
+26,4cbaac58-dd57-41de-90ab-7edaddbe84a9,"Identity, Discrimination & Social Challenges",Dealing with identity (being non-binary or LGBTQ+)
+27,babc044c-675b-42dd-89a2-97ec68423d25,Health & Well-being,Coping with a terminal illness
+28,e0658d32-f70a-4cd3-a1e6-fce35adb1ebe,Environmental & Societal Stressors,"Natural disasters (earthquakes, hurricanes, wildfires)"
+29,02be96c6-b03a-42ba-85cb-8d3a3efee449,Personal Loss & Major Life Changes,Family estrangement or disownment
+30,4992c5f9-0af4-418b-b04b-8cb0a784a871,Financial & Economic Stress,"Supporting dependents financially (e.g., aging parents, children)"
+31,a896938d-6fda-4a39-8963-a4c1811c47b5,Career & Academic Pressures,Job relocation to a new city or country
+32,95c51515-2714-4b47-9bc5-1a966a2e83ea,"Identity, Discrimination & Social Challenges",Lack of acceptance from family or community regarding gender or sexual identity
+33,57cc3acd-a5a7-40a4-bc60-5a71552064b3,Health & Well-being,Addiction or substance abuse (self or a loved one)
+34,c1f338c5-5d1b-45d0-942a-d67127893667,Environmental & Societal Stressors,"Sudden or forced lifestyle change (e.g., joining the military, religious conversion)"
+35,61ed8a64-ec8b-47c8-86f6-a5df1821d8e9,Personal Loss & Major Life Changes,Divorce or breakup of a significant relationship
+36,c94352e5-3433-4f64-a8c7-d33977ad4679,Financial & Economic Stress,Lawsuits or legal financial burdens
+37,a0fd0b99-9b4a-4f05-8953-b1909b341811,Career & Academic Pressures,Burnout or chronic overworking
+38,6cc1e35d-de66-4fd9-ab7c-324b0cd7f68b,"Identity, Discrimination & Social Challenges","Identity crisis (e.g., questioning beliefs, gender, or cultural belonging)"
+39,df0302fd-304a-4bbc-8eae-23f6e30e9495,Health & Well-being,Addiction or substance abuse (self or a loved one)
+40,fa3b56b4-c94d-43da-b3f1-392a6fbacf8a,Environmental & Societal Stressors,"Sudden or forced lifestyle change (e.g., joining the military, religious conversion)"

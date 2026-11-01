@@ -1,0 +1,4 @@
+judge_a,judge_b,n,agreement
+deepseek-r1-distill-qwen-7b,gemma-3-4b,360,0.36944444444444446
+deepseek-r1-distill-qwen-7b,phi-4-mini,298,0.3187919463087248
+gemma-3-4b,phi-4-mini,298,0.19463087248322147

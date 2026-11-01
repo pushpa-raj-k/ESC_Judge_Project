@@ -1,0 +1,106 @@
+{
+  "scale": {"min": 1, "max": 10},
+  "scale_guidance": [
+    "Rate the SUPPORTER only (the side offering emotional support), never the help-seeker.",
+    "Use the whole 1-10 range. Reserve 9-10 for exemplary behaviour a trained counsellor would be proud of. Competent but ordinary chatbot replies usually deserve 4-7.",
+    "Score every skill independently, using only evidence that appears in the conversation.",
+    "Do not reward length, politeness or generic validation. Reward specific, well-timed behaviour that fits what the help-seeker actually said.",
+    "If the supporter never shows a skill at all, score it 1-2."
+  ],
+  "Exploration": {
+    "Empathic Understanding": {
+      "description": "How well the supporter conveys a deep understanding of the help-seeker's inner emotional world, reflecting feelings and aligning with their subjective experience.",
+      "anchors": {
+        "1-2": "Ignores or misreads the help-seeker's feelings; jumps to advice or gives dismissive, generic statements.",
+        "3-4": "Occasional generic sympathy (e.g. 'I'm sorry you're going through this') with little reflection of what the help-seeker actually said or felt.",
+        "5-6": "Sometimes reflects feelings fairly accurately, but replies are formulaic, repetitive or only surface level.",
+        "7-8": "Consistently reflects feelings accurately and specifically, using the help-seeker's own situation and words; they would likely feel understood.",
+        "9-10": "Captures stated and unspoken emotion precisely, adapts to shifts in mood, and conveys understanding without over-claiming or repeating itself."
+      }
+    },
+    "Encouragement of Emotional Expression": {
+      "description": "Whether the supporter invites, explores and validates emotional experiences, helping the help-seeker articulate and tolerate difficult feelings.",
+      "anchors": {
+        "1-2": "Avoids or shuts down emotions: changes topic, minimises, reassures prematurely or says 'look on the bright side'.",
+        "3-4": "Rarely asks about feelings; validation is generic or immediately followed by reassurance or advice.",
+        "5-6": "Sometimes invites feelings (e.g. 'How did that feel?') but moves on quickly or validates without exploring.",
+        "7-8": "Regularly invites and follows up on feelings, validates them, and lets the help-seeker stay with difficult emotions.",
+        "9-10": "Skilfully draws out deeper feelings at the help-seeker's own pace, helps name and tolerate hard emotions, and does not rush to fix."
+      }
+    },
+    "Exploration of Thoughts and Narratives": {
+      "description": "How well the supporter facilitates discussion of the help-seeker's thoughts, beliefs and personal stories through open-ended questions and thoughtful restatements.",
+      "anchors": {
+        "1-2": "Few or no questions; lectures or advises; only closed or leading questions; does not engage with the help-seeker's story.",
+        "3-4": "Occasional questions, mostly closed or generic, with little follow-up on details the help-seeker gave.",
+        "5-6": "Some relevant open-ended questions and restatements, but follow-up is uneven or the story stays superficial.",
+        "7-8": "Mostly open-ended, relevant questions and accurate restatements that build on what was said and deepen the story.",
+        "9-10": "Questions and restatements consistently uncover beliefs, meanings and background; the narrative becomes noticeably richer, without feeling like an interrogation."
+      }
+    }
+  },
+  "Insight": {
+    "Establish a Trusting Foundation": {
+      "description": "Creates rapport and safety through empathic listening before offering deeper insights or interpretations.",
+      "anchors": {
+        "1-2": "Cold, judgmental, scripted or pushy; offers interpretations or advice with no rapport.",
+        "3-4": "Polite but impersonal; moves to interpretation or advice quickly; the help-seeker may feel processed.",
+        "5-6": "Warm tone and some listening, but rapport is inconsistent or deeper interpretations arrive before safety is built.",
+        "7-8": "Warm, respectful and attentive throughout; interpretation or advice comes only after the help-seeker has been heard.",
+        "9-10": "The help-seeker visibly opens up and feels safe; the supporter handles hesitation or mistrust gracefully and always listens before interpreting."
+      }
+    },
+    "Assess Readiness for Insight": {
+      "description": "Notices cues (e.g. confusion, ambivalence) that signal whether to probe deeper, and avoids pushing insight if the help-seeker seems unready.",
+      "anchors": {
+        "1-2": "Ignores clear cues; pushes interpretations on an unready help-seeker, or misses obvious openings for deeper exploration.",
+        "3-4": "Rarely responds to cues; the timing of deeper probes seems arbitrary.",
+        "5-6": "Notices some cues but acts on them inconsistently; sometimes pushes slightly too early or holds back too long.",
+        "7-8": "Usually responds to cues, e.g. checks in when the help-seeker is confused or ambivalent, and goes deeper only when they seem ready.",
+        "9-10": "Reads subtle cues accurately, explicitly checks readiness (e.g. 'Would it be okay if we looked at...?') and adjusts pace to the help-seeker."
+      }
+    },
+    "Use Gentle Challenges and Interpretations": {
+      "description": "Offers new perspectives tentatively, encouraging exploration of contradictions or underlying motives rather than dictating answers.",
+      "anchors": {
+        "1-2": "Never offers a new perspective, or dictates conclusions, confronts bluntly or tells the help-seeker what they 'really' feel.",
+        "3-4": "Rare or heavy-handed reframes; presents interpretations as facts; or only repeats what the help-seeker said.",
+        "5-6": "Some tentative perspectives, but they are generic, weakly grounded in what was said, or not followed up.",
+        "7-8": "Offers tentative, well-grounded perspectives or points out contradictions in a way that invites the help-seeker's reaction.",
+        "9-10": "Insightful, well-timed and tentatively worded interpretations that open new understanding while leaving the help-seeker in control."
+      }
+    }
+  },
+  "Action": {
+    "Clarify the Desired Change": {
+      "description": "Invites exploration of the exact behaviour, situation or decision the help-seeker wants to address, ensuring a specific goal before action planning.",
+      "anchors": {
+        "1-2": "Never asks what the help-seeker wants to change; assumes the goal or advises on an unclear problem.",
+        "3-4": "Vague mentions of 'what you want' with no attempt to make the goal specific.",
+        "5-6": "Asks about the desired change but accepts vague answers or moves to solutions before the goal is specific.",
+        "7-8": "Helps the help-seeker state a reasonably specific goal (which behaviour, situation or decision) before moving to plans.",
+        "9-10": "Collaboratively narrows to a clear, concrete goal the help-seeker owns, and confirms it before any planning."
+      }
+    },
+    "Ensure Readiness and Collaboration": {
+      "description": "Checks the help-seeker's motivation to change and co-creates action plans, respecting self-determination and context.",
+      "anchors": {
+        "1-2": "Imposes plans or instruction lists without asking; ignores the help-seeker's context, motivation or objections.",
+        "3-4": "Offers plans with only a token 'does this help?'; little attention to motivation or constraints.",
+        "5-6": "Sometimes asks about motivation or preferences and adapts a little, but mostly leads the plan itself.",
+        "7-8": "Checks motivation and constraints, invites the help-seeker's own ideas and builds the plan together.",
+        "9-10": "Fully collaborative: assesses readiness and confidence, respects the help-seeker's choices and context, and adjusts the plan to their feedback."
+      }
+    },
+    "Brainstorm and Evaluate Options": {
+      "description": "Helps generate multiple ideas, weigh feasibility, benefits and challenges, and align options with the help-seeker's values and needs.",
+      "anchors": {
+        "1-2": "No options, or a single directive piece of advice.",
+        "3-4": "Lists generic options without discussing fit, feasibility or trade-offs; the ideas come almost entirely from the supporter.",
+        "5-6": "Offers several options and mentions pros and cons, but generically and with little input from the help-seeker.",
+        "7-8": "Generates multiple options (some from the help-seeker), weighs feasibility and benefits or challenges, and relates them to the help-seeker's situation.",
+        "9-10": "Helps the help-seeker generate and compare options against their own values and constraints, and reach a realistic choice or next step they own."
+      }
+    }
+  }
+}

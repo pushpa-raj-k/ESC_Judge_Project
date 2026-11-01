@@ -1,0 +1,7 @@
+judge_a,judge_b,n,agreement
+deepseek-r1-distill-qwen-7b,gemma-3-4b,360,0.36944444444444446
+deepseek-r1-distill-qwen-7b,groq-judge,359,0.38440111420612816
+deepseek-r1-distill-qwen-7b,phi-4-mini,299,0.28762541806020064
+gemma-3-4b,groq-judge,359,0.3593314763231198
+gemma-3-4b,phi-4-mini,299,0.21739130434782608
+groq-judge,phi-4-mini,299,0.2909698996655518
